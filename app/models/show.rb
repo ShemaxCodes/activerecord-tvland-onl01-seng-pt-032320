@@ -9,7 +9,6 @@ class Show < ActiveRecord::Base
     actor.full_name
   end 
 end 
-end 
        
   
 end
